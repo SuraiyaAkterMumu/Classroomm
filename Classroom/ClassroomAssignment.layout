@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\BmpLoader.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22189" topLine="60" />
+		</Cursor>
+		<Folding>
+			<Collapse line="51" />
+			<Collapse line="63" />
+			<Collapse line="74" />
+			<Collapse line="93" />
+			<Collapse line="110" />
+			<Collapse line="127" />
+			<Collapse line="148" />
+			<Collapse line="165" />
+			<Collapse line="177" />
+			<Collapse line="216" />
+			<Collapse line="224" />
+			<Collapse line="233" />
+			<Collapse line="243" />
+			<Collapse line="251" />
+			<Collapse line="261" />
+			<Collapse line="272" />
+			<Collapse line="279" />
+			<Collapse line="287" />
+			<Collapse line="295" />
+			<Collapse line="303" />
+			<Collapse line="311" />
+			<Collapse line="329" />
+			<Collapse line="375" />
+			<Collapse line="388" />
+			<Collapse line="402" />
+			<Collapse line="491" />
+			<Collapse line="718" />
+			<Collapse line="744" />
+			<Collapse line="806" />
+			<Collapse line="820" />
+			<Collapse line="851" />
+			<Collapse line="939" />
+			<Collapse line="989" />
+			<Collapse line="1071" />
+			<Collapse line="1108" />
+			<Collapse line="1242" />
+			<Collapse line="1284" />
+			<Collapse line="1298" />
+			<Collapse line="1351" />
+			<Collapse line="1403" />
+			<Collapse line="1443" />
+			<Collapse line="1578" />
+			<Collapse line="1720" />
+			<Collapse line="1806" />
+			<Collapse line="1871" />
+			<Collapse line="1909" />
+			<Collapse line="2015" />
+			<Collapse line="2041" />
+			<Collapse line="2054" />
+			<Collapse line="2067" />
+			<Collapse line="2167" />
+			<Collapse line="2174" />
+			<Collapse line="2182" />
+			<Collapse line="2189" />
+			<Collapse line="2207" />
+			<Collapse line="2213" />
+			<Collapse line="2219" />
+			<Collapse line="2225" />
+			<Collapse line="2232" />
+			<Collapse line="2239" />
+			<Collapse line="2256" />
+			<Collapse line="2262" />
+			<Collapse line="2268" />
+			<Collapse line="2274" />
+			<Collapse line="2281" />
+			<Collapse line="2288" />
+			<Collapse line="2295" />
+			<Collapse line="2512" />
+			<Collapse line="2517" />
+			<Collapse line="2523" />
+			<Collapse line="2528" />
+			<Collapse line="2534" />
+			<Collapse line="2539" />
+			<Collapse line="2545" />
+			<Collapse line="2550" />
+			<Collapse line="2556" />
+			<Collapse line="2558" />
+			<Collapse line="2571" />
+			<Collapse line="2573" />
+			<Collapse line="2587" />
+			<Collapse line="2592" />
+			<Collapse line="2598" />
+			<Collapse line="2603" />
+			<Collapse line="2653" />
+			<Collapse line="2655" />
+			<Collapse line="2694" />
+			<Collapse line="2710" />
+			<Collapse line="2712" />
+			<Collapse line="2717" />
+			<Collapse line="2725" />
+			<Collapse line="2727" />
+			<Collapse line="2732" />
+			<Collapse line="2739" />
+			<Collapse line="2748" />
+			<Collapse line="2753" />
+			<Collapse line="2762" />
+			<Collapse line="2767" />
+			<Collapse line="2776" />
+			<Collapse line="2781" />
+			<Collapse line="2790" />
+			<Collapse line="2796" />
+			<Collapse line="2803" />
+		</Folding>
+	</File>
+	<File name="include\BmpLoader.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="323" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
